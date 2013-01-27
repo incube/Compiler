@@ -1,5 +1,5 @@
 {
-    "name": "incube/composer",
+    "name": "incube/compiler",
     "type": "library",
     "keywords": ["framework", "mvc", "incube", "event"],
     "description": "Compiler Brick, provide support for XML and HAML",
