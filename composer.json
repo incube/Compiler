@@ -1,0 +1,22 @@
+{
+    "name": "incube/composer",
+    "type": "library",
+    "keywords": ["framework", "mvc", "incube", "event"],
+    "description": "Compiler Brick, provide support for XML and HAML",
+    "homepage": "http://github.com/Incube/Compiler",
+    "license": "GPLv3.0",
+    "authors": [
+        {
+            "name": "Nicolas Morel",
+            "email": "work@incubatio.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": [
+            "lib"
+        ]
+    }
+}
