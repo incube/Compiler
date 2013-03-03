@@ -1,22 +1,16 @@
 {
     "name": "incube/compiler",
-    "type": "library",
-    "keywords": ["framework", "mvc", "incube", "event"],
-    "description": "Compiler Brick, provide support for XML and HAML",
-    "homepage": "http://github.com/Incube/Compiler",
-    "license": "GPLv3.0",
+    "description": "XML, HTML, HAML encoder an decoder",
+    "keywords": ["haml", "compiler"],
+    "type":"library",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Nicolas Morel",
-            "email": "work@incubatio.org"
+            "email": "nico@multeegaming.com"
         }
     ],
     "require": {
-        "php": ">=5.3.0"
-    },
-    "autoload": {
-        "classmap": [
-            "lib"
-        ]
+        "incube/base": "dev-master"
     }
 }
