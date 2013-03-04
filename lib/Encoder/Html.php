@@ -3,7 +3,7 @@ namespace Incube\Encoder;
 /** @author incubatio 
   * @licence GPLv3.0 http://www.gnu.org/licenses/gpl.html
   */
-class HTML extends XML {
+class Html extends Xml {
 
   protected $_docTypes = array(
       '4'         => array(

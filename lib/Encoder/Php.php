@@ -3,7 +3,7 @@ namespace Incube\Encoder;
 /** @author incubatio 
   * @licence GPLv3.0 http://www.gnu.org/licenses/gpl.html
   */
-class PHP {
+class Php {
 
   protected static $_indentSize = 2;
 

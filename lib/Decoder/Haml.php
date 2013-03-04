@@ -1,5 +1,6 @@
 <?php
-class Incube_Decoder_HAML {
+namespace Incube\Decoder;
+class Haml {
 
   // TODO: test if [0, 1] == {0 => 1}
   protected $_types =  array(

@@ -3,7 +3,7 @@ namespace Incube\Encoder;
 /** @author incubatio 
   * @licence GPLv3.0 http://www.gnu.org/licenses/gpl.html
   */
-class XML {
+class Xml {
 
   //TOFIX: doctype should be in HTML class as constants or something
   // List based on http://www.w3.org/QA/2002/04/valid-dtd-list.html + HAML spec (for XHTML 1.2 mobile)
